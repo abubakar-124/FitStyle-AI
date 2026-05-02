@@ -31,7 +31,7 @@ No sign-up. No complicated setup. Just enter your measurements and get results.
 
 ## 🖥️ Demo
 
-🔗 **Live App:** [Try it on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/fitstyle-ai)
+🔗 **Live App:** [Try it on Hugging Face Spaces](https://huggingface.co/spaces/Abubakar763/FitStyle-Ai)
 
 | Your Measurements | Your Style Profile |
 |---|---|
@@ -138,15 +138,15 @@ Youmna saifulah
 Dua Rajper
 
 ---
-## Running Application
-
-https://huggingface.co/spaces/Abubakar763/FitStyle-Ai
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
+This project is licensed under the **HEC Hackathon License** — feel free to use, modify, and distribute.
 
 ---
 
+
+👨‍💻 Author
+Made with ❤️ by Abu Bakar Mughal
 
 ⭐ If you found this useful, give it a star on GitHub!
