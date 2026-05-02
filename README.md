@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/Hosted%20on-Hugging%20Face-yellow?style=flat-square&logo=huggingface)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
